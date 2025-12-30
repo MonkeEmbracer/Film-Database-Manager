@@ -1,0 +1,3 @@
+D:/School/Object-Oriented Programming/a10-MonkeEmbracer-1/cmake-build-debug/CMakeFiles/a10_MonkeEmbracer_1.dir
+D:/School/Object-Oriented Programming/a10-MonkeEmbracer-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/School/Object-Oriented Programming/a10-MonkeEmbracer-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
